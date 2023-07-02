@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/mangrove/mangrove_trunk"
+    },
+    "result": "minecraft:mangrove_fence",
+    "count": 4
+}

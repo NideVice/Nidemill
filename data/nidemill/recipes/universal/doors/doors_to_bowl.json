@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:all/doors"
+    },
+    "result": "minecraft:bowl",
+    "count": 2
+}

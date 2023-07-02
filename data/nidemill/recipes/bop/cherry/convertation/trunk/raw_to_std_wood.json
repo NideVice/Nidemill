@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/cherry/raw_cherry"
+    },
+    "result": "biomesoplenty:stripped_cherry_wood",
+    "count": 1
+}

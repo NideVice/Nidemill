@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/cherry/stripped_cherry"
+    },
+    "result": "minecraft:cherry_hyphae",
+    "count": 1
+}

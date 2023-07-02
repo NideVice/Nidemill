@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/dead/stripped_dead"
+    },
+    "result": "biomesoplenty:dead_wood",
+    "count": 1
+}

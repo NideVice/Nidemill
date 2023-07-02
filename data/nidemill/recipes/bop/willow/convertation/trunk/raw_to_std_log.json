@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/willow/raw_willow"
+    },
+    "result": "biomesoplenty:stripped_willow_log",
+    "count": 1
+}

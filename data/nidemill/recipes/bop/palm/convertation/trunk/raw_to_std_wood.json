@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/palm/raw_palm"
+    },
+    "result": "biomesoplenty:stripped_palm_wood",
+    "count": 1
+}

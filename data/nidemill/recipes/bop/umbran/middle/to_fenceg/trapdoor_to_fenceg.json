@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:umbran_trapdoor"
+    },
+    "result": "biomesoplenty:umbran_fence_gate",
+    "count": 2
+}

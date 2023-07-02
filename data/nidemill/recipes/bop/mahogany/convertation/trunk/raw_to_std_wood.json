@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/mahogany/raw_mahogany"
+    },
+    "result": "biomesoplenty:stripped_mahogany_wood",
+    "count": 1
+}

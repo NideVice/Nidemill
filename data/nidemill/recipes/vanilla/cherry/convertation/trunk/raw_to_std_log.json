@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/cherry/raw_cherry"
+    },
+    "result": "minecraft:stripped_cherry_stem",
+    "count": 1
+}

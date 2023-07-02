@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:redwood_slab"
+    },
+    "result": "biomesoplenty:redwood_pressure_plate",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/spruce/spruce_trunk"
+    },
+    "result": "minecraft:spruce_fence",
+    "count": 4
+}

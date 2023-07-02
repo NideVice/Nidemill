@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:redwood_button"
+    },
+    "result": "biomesoplenty:redwood_slab",
+    "count": 1
+}

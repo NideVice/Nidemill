@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/palm/palm_trunk"
+    },
+    "result": "biomesoplenty:palm_fence",
+    "count": 4
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/oak/oak_trunk"
+    },
+    "result": "minecraft:oak_fence",
+    "count": 4
+}

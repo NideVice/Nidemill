@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/hellbark/raw_hellbark"
+    },
+    "result": "biomesoplenty:stripped_hellbark_wood",
+    "count": 1
+}

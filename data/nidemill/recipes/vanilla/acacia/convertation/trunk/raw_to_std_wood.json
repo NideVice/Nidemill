@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/acacia/raw_acacia"
+    },
+    "result": "minecraft:stripped_acacia_wood",
+    "count": 1
+}

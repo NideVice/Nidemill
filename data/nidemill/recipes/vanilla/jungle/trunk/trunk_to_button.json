@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/jungle/jungle_trunk"
+    },
+    "result": "minecraft:jungle_button",
+    "count": 8
+}

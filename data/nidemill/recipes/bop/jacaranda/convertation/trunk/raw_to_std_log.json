@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/jacaranda/raw_jacaranda"
+    },
+    "result": "biomesoplenty:stripped_jacaranda_log",
+    "count": 1
+}

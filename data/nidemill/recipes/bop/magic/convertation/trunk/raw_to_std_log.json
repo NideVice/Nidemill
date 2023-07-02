@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/magic/raw_magic"
+    },
+    "result": "biomesoplenty:stripped_magic_log",
+    "count": 1
+}

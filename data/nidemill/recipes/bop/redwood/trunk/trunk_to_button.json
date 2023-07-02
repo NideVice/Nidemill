@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/redwood/redwood_trunk"
+    },
+    "result": "biomesoplenty:redwood_button",
+    "count": 8
+}

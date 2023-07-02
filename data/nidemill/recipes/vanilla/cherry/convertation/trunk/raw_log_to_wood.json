@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:cherry_stem"
+    },
+    "result": "minecraft:cherry_hyphae",
+    "count": 1
+}

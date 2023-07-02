@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/cherry/cherry_trunk"
+    },
+    "result": "biomesoplenty:cherry_fence",
+    "count": 4
+}

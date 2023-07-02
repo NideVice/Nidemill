@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/spruce/stripped_spruce"
+    },
+    "result": "minecraft:spruce_wood",
+    "count": 1
+}

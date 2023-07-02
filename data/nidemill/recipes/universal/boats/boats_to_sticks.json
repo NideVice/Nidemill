@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:all/all_boats"
+    },
+    "result": "minecraft:stick",
+    "count": 8
+}

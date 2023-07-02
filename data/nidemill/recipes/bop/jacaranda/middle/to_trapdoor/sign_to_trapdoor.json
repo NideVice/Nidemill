@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:jacaranda_sign"
+    },
+    "result": "biomesoplenty:jacaranda_trapdoor",
+    "count": 1
+}

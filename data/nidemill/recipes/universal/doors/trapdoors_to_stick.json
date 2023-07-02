@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:all/trapdoors"
+    },
+    "result": "minecraft:stick",
+    "count": 2
+}

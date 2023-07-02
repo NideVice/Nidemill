@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/darkoak/dark_oak_trunk"
+    },
+    "result": "minecraft:dark_oak_sign",
+    "count": 4
+}

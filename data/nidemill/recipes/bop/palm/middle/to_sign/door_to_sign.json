@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:palm_door"
+    },
+    "result": "biomesoplenty:palm_sign",
+    "count": 1
+}

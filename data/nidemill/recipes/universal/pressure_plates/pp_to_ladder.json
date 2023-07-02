@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:all/pressure_plates"
+    },
+    "result": "minecraft:ladder",
+    "count": 1
+}

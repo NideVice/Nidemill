@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/mahogany/mahogany_trunk"
+    },
+    "result": "biomesoplenty:mahogany_sign",
+    "count": 4
+}

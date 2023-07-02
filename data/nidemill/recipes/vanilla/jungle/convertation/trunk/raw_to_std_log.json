@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/jungle/raw_jungle"
+    },
+    "result": "minecraft:stripped_jungle_log",
+    "count": 1
+}

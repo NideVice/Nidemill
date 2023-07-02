@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/umbran/stripped_umbran"
+    },
+    "result": "biomesoplenty:umbran_wood",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:redwood_fence_gate"
+    },
+    "result": "biomesoplenty:redwood_fence",
+    "count": 1
+}

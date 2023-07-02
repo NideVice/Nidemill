@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/willow/willow_trunk"
+    },
+    "result": "biomesoplenty:willow_slab",
+    "count": 8
+}

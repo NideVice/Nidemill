@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/magic/magic_trunk"
+    },
+    "result": "biomesoplenty:magic_chest_boat",
+    "count": 1
+}

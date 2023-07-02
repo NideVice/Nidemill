@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:fir_stairs"
+    },
+    "result": "biomesoplenty:fir_fence_gate",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/darkoak/raw_dark_oak"
+    },
+    "result": "minecraft:stripped_dark_oak_wood",
+    "count": 1
+}

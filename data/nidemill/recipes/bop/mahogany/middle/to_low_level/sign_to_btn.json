@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:mahogany_sign"
+    },
+    "result": "biomesoplenty:mahogany_button",
+    "count": 2
+}

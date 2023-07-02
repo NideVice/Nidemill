@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:jacaranda_fence"
+    },
+    "result": "biomesoplenty:jacaranda_stairs",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:magic_fence_gate"
+    },
+    "result": "biomesoplenty:magic_slab",
+    "count": 2
+}

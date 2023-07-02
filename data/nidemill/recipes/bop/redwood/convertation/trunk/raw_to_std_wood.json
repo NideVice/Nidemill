@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/redwood/raw_redwood"
+    },
+    "result": "biomesoplenty:stripped_redwood_wood",
+    "count": 1
+}

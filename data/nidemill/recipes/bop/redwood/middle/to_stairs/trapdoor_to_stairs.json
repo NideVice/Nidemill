@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:redwood_trapdoor"
+    },
+    "result": "biomesoplenty:redwood_stairs",
+    "count": 2
+}

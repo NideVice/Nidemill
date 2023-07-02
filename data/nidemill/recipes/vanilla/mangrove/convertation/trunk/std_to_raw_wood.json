@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/mangrove/stripped_mangrove"
+    },
+    "result": "minecraft:mangrove_wood",
+    "count": 1
+}

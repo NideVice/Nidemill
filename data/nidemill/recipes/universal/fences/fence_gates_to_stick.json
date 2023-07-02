@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:all/fence_gates"
+    },
+    "result": "minecraft:stick",
+    "count": 2
+}

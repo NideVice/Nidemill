@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/oak/stripped_oak"
+    },
+    "result": "minecraft:oak_wood",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/crimson/stripped_crimson"
+    },
+    "result": "minecraft:crimson_stem",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:palm_trapdoor"
+    },
+    "result": "biomesoplenty:palm_stairs",
+    "count": 2
+}

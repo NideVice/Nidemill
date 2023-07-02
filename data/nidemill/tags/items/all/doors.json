@@ -1,0 +1,24 @@
+{
+	"values": [
+		"oak_door",
+		"spruce_door",
+		"birch_door",
+		"jungle_door",
+		"acacia_door",
+		"dark_oak_door",
+		"mangrove_door",
+		"crimson_door",
+		"warped_door",
+		"biomesoplenty:fir_door",
+		"biomesoplenty:redwood_door",
+		"biomesoplenty:cherry_door",
+		"biomesoplenty:mahogany_door",
+		"biomesoplenty:jacaranda_door",
+		"biomesoplenty:palm_door",
+		"biomesoplenty:willow_door",
+		"biomesoplenty:dead_door",
+		"biomesoplenty:magic_door",
+		"biomesoplenty:umbran_door",
+		"biomesoplenty:hellbark_door"
+	]
+}

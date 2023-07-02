@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/jacaranda/jacaranda_trunk"
+    },
+    "result": "biomesoplenty:jacaranda_chest_boat",
+    "count": 1
+}

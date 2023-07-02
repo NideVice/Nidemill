@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/birch/raw_birch"
+    },
+    "result": "minecraft:stripped_birch_wood",
+    "count": 1
+}

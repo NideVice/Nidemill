@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "biomesoplenty:dead_pressure_plate"
+    },
+    "result": "biomesoplenty:dead_button",
+    "count": 1
+}

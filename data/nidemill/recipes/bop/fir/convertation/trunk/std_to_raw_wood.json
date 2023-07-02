@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:bop/fir/stripped_fir"
+    },
+    "result": "biomesoplenty:fir_wood",
+    "count": 1
+}
