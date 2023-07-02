@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "nidemill:all/all_boats"
+        "item": "minecraft:bamboo_mosaic"
     },
-    "result": "minecraft:wooden_axe",
+    "result": "minecraft:bamboo_button",
     "count": 2
 }

@@ -3,6 +3,6 @@
     "ingredient": {
         "tag": "nidemill:vanilla/cherry/raw_cherry"
     },
-    "result": "minecraft:stripped_cherry_hyphae",
+    "result": "minecraft:stripped_cherry_wood",
     "count": 1
 }

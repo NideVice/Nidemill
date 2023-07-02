@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "nidemill:all/all_boats"
+        "item": "minecraft:bamboo_sign"
     },
-    "result": "minecraft:wooden_sword",
+    "result": "minecraft:bamboo_slab",
     "count": 2
 }

@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "nidemill:all/all_boats"
+        "item": "minecraft:bamboo_planks"
     },
-    "result": "minecraft:wooden_hoe",
+    "result": "minecraft:bamboo_button",
     "count": 2
 }

@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "nidemill:all/all_boats"
+        "item": "minecraft:bamboo_trapdoor"
     },
-    "result": "minecraft:wooden_shovel",
+    "result": "minecraft:bamboo_slab",
     "count": 2
 }

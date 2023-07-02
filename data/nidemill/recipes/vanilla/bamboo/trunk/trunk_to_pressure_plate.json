@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "nidemill:vanilla/bamboo/bamboo_trunk"
+    },
+    "result": "minecraft:bamboo_pressure_plate",
+    "count": 8
+}
